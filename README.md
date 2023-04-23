@@ -9,6 +9,17 @@
 I'm a full-stack developer, Data Scientist and Data Engineer with a deep interest in tech and finance industries. I have worked for tech start-ups, economic reasearch firms and Banking firms. I have a strong analytical and statistical background having both, Bachelors in Computer Science and Bachelors in Economics. I am currently working in the Banking industry, working as a freelancer and developing my own projects, all related mainly to tech and finance.
 </p>
 
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-paredes-la-torre"><img width="32px" title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="mailto:alejandroparedeslatorre@gmail.com"><img width="50px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/16131737/65396536-0b6e0480-dd5c-11e9-896d-c11d0bc70e84.gif"></a>
+</p>
+
+<br/>
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=43D2A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Scientist;Data+Engineer;Always+excited+to+learn+new+things" alt="Typing SVG" />
@@ -24,6 +35,8 @@ I'm a full-stack developer, Data Scientist and Data Engineer with a deep interes
 <div>
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
