@@ -3,7 +3,7 @@
   </a>
 </p>
 
-<h3>Hellow there 👋 </h3>
+<h3>Hello there 👋 </h3>
 
 <p>
 I'm a full-stack developer, Data Scientist and Data Engineer with a deep interest in tech and finance industries. I have worked for tech start-ups, economic reasearch firms and Banking firms. I have a strong analytical and statistical background having both, Bachelors in Computer Science and Bachelors in Economics. I am currently working in the Banking industry, working as a freelancer and developing my own projects, all related mainly to tech and finance.
