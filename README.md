@@ -6,12 +6,12 @@
 <h3>Hello there 👋 </h3>
 
 <p>
-I'm a Data Scientist, Data Engineer and full-stack developer with a deep interest in tech and finance industries. I have worked for tech start-ups, economic reasearch firms and Banking firms. I have a strong analytical and statistical background having both, Bachelors in Computer Science and Bachelors in Economics. I am currently working in the Banking industry, working as a freelancer and developing my own projects, all related mainly to tech and finance.
+I'm a Machine Learning Engineer and full-stack software developer with professional experience tech and finance industries. I have worked for tech start-ups, economic reasearch firms and Banking firms. I have a strong analytical and statistical background having both, Bachelors in Computer Science and Bachelors in Economics. I am currently working in the Banking industry, working as a freelancer and developing my own projects, all related mainly to tech and finance.
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=43D2A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Scientist;Data+Engineer;Always+excited+to+learn+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=43D2A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Applied+Scientist;Machine+Learning+Engineer;Always+excited+to+learn+new+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ I'm a Data Scientist, Data Engineer and full-stack developer with a deep interes
 
 <p />
 
-<p>Data Science and Data Engineering</p>
+<p>Data Science and Machine Learning</p>
 <p />
 <div>
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
