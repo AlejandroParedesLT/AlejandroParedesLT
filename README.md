@@ -11,7 +11,7 @@ I'm a Machine Learning Engineer and full-stack software developer with professio
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=43D2A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Applied+Scientist;Machine+Learning+Engineer;Always+excited+to+learn+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=43D2A1&center=true&vCenter=true&width=435&lines=Applied+Scientist;Machine+Learning+Engineer;Full+Stack+Software+Developer;Always+excited+to+learn+new+things" alt="Typing SVG" />
   </a>
 </p>
 
