@@ -6,7 +6,7 @@
 <h3>Hello there 👋 </h3>
 
 <p>
-I'm a Machine Learning Engineer and full-stack software developer with professional experience tech and finance industries. I have worked for tech start-ups, economic reasearch firms and Banking firms. I have a strong analytical and statistical background having both, Bachelors in Computer Science and Bachelors in Economics. I am currently working in the Banking industry, working as a freelancer and developing my own projects, all related mainly to tech and finance.
+I'm a Machine Learning Engineer with professional experience in the tech and finance industries. I am currently working in research at Duke University.
 </p>
 
 <p align="center">
