@@ -28,32 +28,34 @@ I'm a Machine Learning Engineer with professional experience in the tech and fin
 <p>Software Development</p>
 <p />
 <div>
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  
-  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  
-</div>     
-
+</div>
+<div>
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
 <p />
 
 <p>Machine Learning</p>
 <p />
 <div>
-  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img align="center" width="50px" src="https://cdn.simpleicons.org/nvidia/76B900" title="CUDA" />
   <img align="center" width="80px" src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/tensorflow-layout.svg" />
-  <img align="center" width="50px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/hadoop.svg">
-  <img align="center" width="50px" src="https://spark.apache.org/images/spark-logo-trademark.png"> 
-  <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
+  <img align="center" width="50px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/hadoop.svg" />
+  <img align="center" width="50px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
+  <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
   <img align="center" width="50px" src="https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png" />
   <img align="center" width="50px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/hive.svg" />
-</div>     
+</div>
 
 
 <!--
